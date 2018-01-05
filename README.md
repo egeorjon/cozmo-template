@@ -1,4 +1,5 @@
-# cozmo-template
-Template for starting a project with the Cozmo SDK
+# Notes about Cozmo Development
 
-Pieces of code for starting developments with the Cozmo Robot
+Pieces of code and comments while starting developments with the Cozmo Robot
+
+Everything is available in the projct Wiki, just [click here](https://github.com/egeorjon/cozmo-template/wiki)
