@@ -1,0 +1,8 @@
+
+def get_image_from_cozmo():
+    robot.camera.image_stream_enabled = True
+    image = None
+    while image is None:
+        image = robot.world.latest_image
+        print("image = %s" % image)
+        time.sleep(0.1)
